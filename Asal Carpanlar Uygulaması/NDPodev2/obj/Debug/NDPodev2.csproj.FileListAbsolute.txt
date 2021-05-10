@@ -1,0 +1,10 @@
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\bin\Debug\NDPodev2.exe.config
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\bin\Debug\NDPodev2.exe
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\bin\Debug\NDPodev2.pdb
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.csprojAssemblyReference.cache
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.Form1.resources
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.Properties.Resources.resources
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.csproj.GenerateResource.cache
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.csproj.CoreCompileInputs.cache
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.exe
+C:\Users\sevdet\source\repos\NDPodev2\NDPodev2\obj\Debug\NDPodev2.pdb
